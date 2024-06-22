@@ -5,9 +5,9 @@
 
 Desde criança com meus 10 anos gostava muito de tecnologia e com o computador que eu tinha, acabei fazendo dele um laboratório de testes de softwares diversos na curiosidade de ver como funcionavam, seus impactos no uso de recursos do computador e a performance dele com meus  os conhecimentos obtidos de sites como BABOO.
 
-Em 2021, comecei um curso Técnico em Informática no qual sou formado atualmente e com ele aprendi o conceito geral de linguagens como MySQL, Java, HTML (com uso do CSS) e PHP (com framework codeigniter). Participei de um projeto nesse curso em que envolvia um sistema via Web para que um professor possa fazer o gerenciamento de documentação de estágio no qual nomeamos Estágio S.A.. Nesse projeto, participei como auxiliar do time de back-end e liderei a parte de homologação efetuando testes e pontuando o que poderia ser corrigido para melhor funcionamento, me colocando no lugar do usuário para que a interface seja ideal a ele.
+Em 2021, comecei um curso Técnico em Informática no qual sou formado atualmente e com ele aprendi o conceito geral de linguagens como MySQL, Java, HTML (com uso do CSS) e PHP (com framework codeigniter). Participei de um projeto nesse curso em que envolvia um sistema via Web para que um professor possa fazer o gerenciamento de documentação de estágio no qual nomeamos Estágio S.A.. Nesse projeto, participei sendo líder da equipe de homologação efetuando testes e pontuando o que poderia ser corrigido para melhor funcionamento e entendimento de cada coisa da aplicação.
 
-Atualmente sou calouro do Bacharelado de Sistemas de Informação para reforçar e melhorar meus conhecimentos para me tornar cada vez mais experiente para fazer mais ✨🚀
+Atualmente sou calouro do Bacharelado de Sistemas de Informação para reforçar e melhorar meus conhecimentos para me tornar cada vez mais experiente nesse mundo da programação ✨🚀
 
 ## Conhecimentos 💻
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
