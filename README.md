@@ -1,6 +1,3 @@
-
-# Hector Semenssato
-
 ## Olá! Boas-vindas :) 
 
 Desde criança com meus 10 anos gostava muito de tecnologia e com o computador que eu tinha, acabei fazendo dele um laboratório de testes de softwares diversos na curiosidade de ver como funcionavam, seus impactos no uso de recursos do computador e a performance dele com meus  os conhecimentos obtidos de sites como BABOO.
