@@ -1,4 +1,4 @@
-- Estudante de Sistemas de Informação e desenvolvedor junior que faz garante a usabilidade em projetos da faculdade seguindo padrões como ISO 9126/25002, Heurísticas de Nielsen e os Princípios de Design de Interfaces.
+- Estudante de Sistemas de Informação e desenvolvedor junior que garante a usabilidade em projetos da faculdade seguindo padrões como ISO 9126/25002, Heurísticas de Nielsen e os Princípios de Design de Interfaces.
 
 
 ## Contatos
