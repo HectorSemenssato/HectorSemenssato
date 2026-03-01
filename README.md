@@ -1,4 +1,4 @@
-- Estudante de Sistemas de Informação e desenvolvedor junior que valida a usabilidade em projetos da faculdade seguindo padrões como ISO 9126/25002, Heurísticas de Nielsen e os Princípios de Design de Interfaces.
+- Estudante de Sistemas de Informação realizando Projetos Integradores com a tarefa de escrever a documentação, realizar testes e validações usando das Heurísticas de Nielsen e outras ferramentas no sistema desenvolvido e com o pensamento do usuário para garantir que tudo esteja conforme o que se espera.
 
 O projeto da faculdade no qual estou participando ativamente está aqui: https://github.com/camilla-sr/auto-agenda.git
 
